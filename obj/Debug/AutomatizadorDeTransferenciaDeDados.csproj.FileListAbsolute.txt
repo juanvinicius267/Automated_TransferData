@@ -1,0 +1,11 @@
+C:\Users\ssbjvq\source\repos\AutomatizadorDeTransferenciaDeDados\bin\Debug\AutomatizadorDeTransferenciaDeDados.exe.config
+C:\Users\ssbjvq\source\repos\AutomatizadorDeTransferenciaDeDados\bin\Debug\AutomatizadorDeTransferenciaDeDados.exe
+C:\Users\ssbjvq\source\repos\AutomatizadorDeTransferenciaDeDados\bin\Debug\AutomatizadorDeTransferenciaDeDados.pdb
+C:\Users\ssbjvq\source\repos\AutomatizadorDeTransferenciaDeDados\bin\Debug\ExcelDataReader.dll
+C:\Users\ssbjvq\source\repos\AutomatizadorDeTransferenciaDeDados\bin\Debug\ExcelDataReader.pdb
+C:\Users\ssbjvq\source\repos\AutomatizadorDeTransferenciaDeDados\bin\Debug\ExcelDataReader.xml
+C:\Users\ssbjvq\source\repos\AutomatizadorDeTransferenciaDeDados\obj\Debug\AutomatizadorDeTransferenciaDeDados.csprojAssemblyReference.cache
+C:\Users\ssbjvq\source\repos\AutomatizadorDeTransferenciaDeDados\obj\Debug\AutomatizadorDeTransferenciaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\ssbjvq\source\repos\AutomatizadorDeTransferenciaDeDados\obj\Debug\AutomatizadorDeTransferenciaDeDados.csproj.CopyComplete
+C:\Users\ssbjvq\source\repos\AutomatizadorDeTransferenciaDeDados\obj\Debug\AutomatizadorDeTransferenciaDeDados.exe
+C:\Users\ssbjvq\source\repos\AutomatizadorDeTransferenciaDeDados\obj\Debug\AutomatizadorDeTransferenciaDeDados.pdb
